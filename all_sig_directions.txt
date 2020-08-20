@@ -1,0 +1,1268 @@
+216293,10,2,Abortion,1
+704829,33,2,Abortion,0
+79815,41,2,Abortion,0
+58765,75,2,Abortion,0
+209790,89,2,Abortion,0
+79770,91,2,Abortion,1
+720403,133,2,Abortion,0
+79753,150,2,Abortion,1
+52069,160,2,Abortion,1
+54244,188,2,Abortion,1
+88260,224,2,Abortion,1
+199421,231,2,Abortion,0
+6,252,2,Abortion,0
+89234,331,2,Abortion,1
+89213,353,2,Abortion,0
+266227,371,2,Abortion,1
+704698,380,2,Abortion,1
+177344,496,2,Abortion,1
+251103,563,2,Abortion,1
+243287,601,2,Abortion,1
+206756,628,2,Abortion,0
+70701,638,2,Abortion,1
+219200,646,2,Abortion,1
+303742,736,2,Abortion,1
+704803,776,2,Abortion,1
+652632,779,2,Abortion,1
+272306,796,2,Abortion,0
+138441,821,2,Abortion,0
+713205,849,2,Abortion,1
+272328,869,2,Abortion,1
+52068,910,2,Abortion,0
+22912,937,2,Abortion,1
+148985,963,2,Abortion,0
+40180,1004,2,Abortion,1
+92,1016,2,Abortion,1
+195931,1033,2,Abortion,0
+42,1086,2,Abortion,0
+,1189,2,Abortion,1
+234428,1109,2,Abortion,1
+232616,1133,2,Abortion,0
+1379,1142,2,Abortion,1
+726841,1166,2,Abortion,1
+40179,1188,2,Abortion,0
+13162,1195,2,Abortion,0
+722930,1232,2,Abortion,0
+3915,1243,2,Abortion,0
+177318,1264,2,Abortion,0
+27755,1269,2,Abortion,1
+232605,1397,2,Abortion,1
+206753,1413,2,Abortion,1
+22929,1422,2,Abortion,1
+148967,1529,2,Abortion,1
+676355,1539,2,Abortion,1
+4997,1559,2,Abortion,0
+3,1578,2,Abortion,1
+729970,1595,2,Abortion,1
+141330,1647,2,Abortion,1
+676398,1653,2,Abortion,0
+265894,1881,2,Abortion,1
+10063,1920,2,Abortion,0
+,1946,2,Abortion,0
+,1954,2,Abortion,0
+665056,2020,2,Abortion,0
+700389,2064,2,Abortion,1
+195966,2303,2,Abortion,1
+586,2368,2,Abortion,0
+317302,2390,2,Abortion,0
+303180,2461,2,Abortion,1
+,2629,2,Abortion,1
+681804,2656,2,Abortion,0
+4905,40,3,Employment and Affirmative Action,1
+4764,143,3,Employment and Affirmative Action,1
+140,447,3,Employment and Affirmative Action,1
+5282,991,3,Employment and Affirmative Action,1
+20,1343,3,Employment and Affirmative Action,1
+4662,1813,3,Employment and Affirmative Action,1
+4499,1856,3,Employment and Affirmative Action,0
+3600,1860,3,Employment and Affirmative Action,1
+,2479,3,Employment and Affirmative Action,1
+,2560,3,Employment and Affirmative Action,1
+90313,2638,3,Employment and Affirmative Action,1
+89261,220,4,Agriculture and Food,1
+177299,268,4,Agriculture and Food,1
+253616,341,4,Agriculture and Food,1
+253611,533,4,Agriculture and Food,0
+5609,568,4,Agriculture and Food,1
+5165,593,4,Agriculture and Food,1
+303760,602,4,Agriculture and Food,1
+34,611,4,Agriculture and Food,1
+4481,684,4,Agriculture and Food,1
+190992,729,4,Agriculture and Food,0
+124,1120,4,Agriculture and Food,1
+80078,1127,4,Agriculture and Food,1
+722978,1159,4,Agriculture and Food,1
+250523,1163,4,Agriculture and Food,1
+5120,1184,4,Agriculture and Food,1
+243288,1196,4,Agriculture and Food,1
+713073,1201,4,Agriculture and Food,1
+5124,1211,4,Agriculture and Food,0
+250499,1301,4,Agriculture and Food,1
+27748,1372,4,Agriculture and Food,1
+15026,1527,4,Agriculture and Food,1
+692206,1562,4,Agriculture and Food,1
+22906,1589,4,Agriculture and Food,1
+138407,1608,4,Agriculture and Food,1
+4653,1705,4,Agriculture and Food,1
+13492,1762,4,Agriculture and Food,1
+,1789,4,Agriculture and Food,1
+4557,1811,4,Agriculture and Food,1
+,2056,4,Agriculture and Food,1
+66,2171,4,Agriculture and Food,1
+175071,2385,4,Agriculture and Food,1
+40,2654,4,Agriculture and Food,0
+,2705,4,Agriculture and Food,1
+,2865,4,Agriculture and Food,1
+,2894,4,Agriculture and Food,1
+1361,28,5,Animals and Wildlife,0
+4893,57,5,Animals and Wildlife,1
+93,109,5,Animals and Wildlife,1
+140908,129,5,Animals and Wildlife,0
+79749,155,5,Animals and Wildlife,1
+4902,324,5,Animals and Wildlife,1
+195919,372,5,Animals and Wildlife,1
+89195,466,5,Animals and Wildlife,1
+150068,615,5,Animals and Wildlife,0
+5064,644,5,Animals and Wildlife,1
+1228,657,5,Animals and Wildlife,1
+12,674,5,Animals and Wildlife,1
+52059,786,5,Animals and Wildlife,1
+250512,894,5,Animals and Wildlife,1
+3629,906,5,Animals and Wildlife,1
+4770,1081,5,Animals and Wildlife,1
+3628,1111,5,Animals and Wildlife,1
+13285,1204,5,Animals and Wildlife,1
+1002,1221,5,Animals and Wildlife,0
+4894,1263,5,Animals and Wildlife,1
+1363,1278,5,Animals and Wildlife,1
+35,1574,5,Animals and Wildlife,1
+,1612,5,Animals and Wildlife,1
+272312,1657,5,Animals and Wildlife,1
+10497,1704,5,Animals and Wildlife,1
+13648,1742,5,Animals and Wildlife,0
+10638,1745,5,Animals and Wildlife,1
+79761,1794,5,Animals and Wildlife,1
+22908,1828,5,Animals and Wildlife,1
+13359,1829,5,Animals and Wildlife,1
+,1916,5,Animals and Wildlife,1
+722953,1926,5,Animals and Wildlife,1
+713703,1995,5,Animals and Wildlife,1
+272313,2018,5,Animals and Wildlife,1
+927,2031,5,Animals and Wildlife,1
+840,2060,5,Animals and Wildlife,1
+212763,2093,5,Animals and Wildlife,1
+649891,2215,5,Animals and Wildlife,1
+1367,2320,5,Animals and Wildlife,1
+195970,2855,5,Animals and Wildlife,1
+21,2859,5,Animals and Wildlife,1
+226,766,7,"Arts Entertainment and History",1
+184,922,7,"Arts Entertainment and History",1
+4831,1060,7,"Arts Entertainment and History",1
+5157,1143,7,"Arts Entertainment and History",1
+27,1425,7,"Arts Entertainment and History",1
+,1868,7,"Arts Entertainment and History",1
+89226,1875,7,"Arts Entertainment and History",1
+,2492,7,"Arts Entertainment and History",1
+45,2562,7,"Arts Entertainment and History",1
+54,23,10,"Budget Spending and Taxes",1
+33176,104,10,"Budget Spending and Taxes",1
+177281,147,10,"Budget Spending and Taxes",1
+232604,163,10,"Budget Spending and Taxes",1
+700394,275,10,"Budget Spending and Taxes",1
+722985,1797,10,"Budget Spending and Taxes",1
+676369,2021,10,"Budget Spending and Taxes",1
+177244,2169,10,"Budget Spending and Taxes",1
+216213,2360,10,"Budget Spending and Taxes",0
+175070,2388,10,"Budget Spending and Taxes",1
+79738,2,11,Business and Consumers,1
+139,22,11,Business and Consumers,1
+303199,68,11,Business and Consumers,1
+89224,84,11,Business and Consumers,1
+4705,138,11,Business and Consumers,1
+254329,193,11,Business and Consumers,1
+22915,196,11,Business and Consumers,1
+4731,205,11,Business and Consumers,0
+656737,211,11,Business and Consumers,1
+33,230,11,Business and Consumers,1
+713078,234,11,Business and Consumers,1
+80079,259,11,Business and Consumers,1
+232601,266,11,Business and Consumers,1
+676334,278,11,Business and Consumers,1
+138384,297,11,Business and Consumers,0
+263775,323,11,Business and Consumers,1
+135,351,11,Business and Consumers,1
+36456,356,11,Business and Consumers,1
+4691,361,11,Business and Consumers,0
+197526,363,11,Business and Consumers,1
+15439,431,11,Business and Consumers,1
+250505,455,11,Business and Consumers,0
+191003,457,11,Business and Consumers,1
+27475,459,11,Business and Consumers,1
+,471,11,Business and Consumers,1
+5875,474,11,Business and Consumers,1
+89238,476,11,Business and Consumers,1
+704714,484,11,Business and Consumers,1
+27472,487,11,Business and Consumers,1
+661188,494,11,Business and Consumers,1
+37,503,11,Business and Consumers,1
+,504,11,Business and Consumers,1
+4885,515,11,Business and Consumers,1
+42305,528,11,Business and Consumers,1
+729959,532,11,Business and Consumers,1
+722934,600,11,Business and Consumers,1
+42290,607,11,Business and Consumers,1
+76167,608,11,Business and Consumers,1
+703961,612,11,Business and Consumers,1
+269002,624,11,Business and Consumers,1
+89187,637,11,Business and Consumers,0
+15435,653,11,Business and Consumers,1
+191068,662,11,Business and Consumers,1
+4993,679,11,Business and Consumers,1
+22920,683,11,Business and Consumers,1
+729955,687,11,Business and Consumers,1
+722963,688,11,Business and Consumers,1
+704703,702,11,Business and Consumers,1
+703964,728,11,Business and Consumers,1
+236590,732,11,Business and Consumers,1
+665046,734,11,Business and Consumers,1
+3521,747,11,Business and Consumers,1
+78,755,11,Business and Consumers,1
+4815,758,11,Business and Consumers,1
+165245,760,11,Business and Consumers,1
+1268,794,11,Business and Consumers,1
+19460,804,11,Business and Consumers,1
+175096,820,11,Business and Consumers,1
+36,834,11,Business and Consumers,1
+177229,844,11,Business and Consumers,1
+42289,848,11,Business and Consumers,1
+301184,901,11,Business and Consumers,1
+649897,903,11,Business and Consumers,1
+52074,920,11,Business and Consumers,1
+39,933,11,Business and Consumers,1
+141324,964,11,Business and Consumers,1
+722928,985,11,Business and Consumers,1
+1250,989,11,Business and Consumers,1
+250509,993,11,Business and Consumers,1
+89183,1019,11,Business and Consumers,1
+89225,1025,11,Business and Consumers,0
+3574,1039,11,Business and Consumers,1
+3627,1040,11,Business and Consumers,1
+177228,1047,11,Business and Consumers,1
+207631,1048,11,Business and Consumers,1
+243264,1051,11,Business and Consumers,1
+243263,1063,11,Business and Consumers,1
+10631,1100,11,Business and Consumers,1
+94108,1101,11,Business and Consumers,1
+713084,1108,11,Business and Consumers,1
+10637,1119,11,Business and Consumers,1
+2799,1169,11,Business and Consumers,1
+141310,1185,11,Business and Consumers,1
+13933,1215,11,Business and Consumers,1
+236586,1216,11,Business and Consumers,1
+1370,1218,11,Business and Consumers,1
+216331,1228,11,Business and Consumers,1
+42291,1286,11,Business and Consumers,1
+309046,1287,11,Business and Consumers,1
+134,1294,11,Business and Consumers,1
+713733,1299,11,Business and Consumers,1
+650409,1307,11,Business and Consumers,1
+5302,1316,11,Business and Consumers,0
+4551,1340,11,Business and Consumers,1
+1371,1352,11,Business and Consumers,1
+251105,1366,11,Business and Consumers,1
+269013,1369,11,Business and Consumers,1
+141314,1391,11,Business and Consumers,0
+199419,1400,11,Business and Consumers,1
+93105,1448,11,Business and Consumers,1
+,1461,11,Business and Consumers,0
+700385,1473,11,Business and Consumers,1
+580,1501,11,Business and Consumers,1
+206755,1503,11,Business and Consumers,1
+704777,1507,11,Business and Consumers,1
+27749,1538,11,Business and Consumers,1
+676356,1540,11,Business and Consumers,1
+199413,1556,11,Business and Consumers,1
+174590,1561,11,Business and Consumers,1
+303748,1565,11,Business and Consumers,1
+303205,1573,11,Business and Consumers,1
+33174,1596,11,Business and Consumers,1
+165248,1618,11,Business and Consumers,1
+722950,1621,11,Business and Consumers,1
+22909,1622,11,Business and Consumers,1
+250498,1629,11,Business and Consumers,1
+713740,1630,11,Business and Consumers,0
+79759,1633,11,Business and Consumers,1
+232614,1661,11,Business and Consumers,1
+13602,1665,11,Business and Consumers,0
+161,1695,11,Business and Consumers,1
+303215,1731,11,Business and Consumers,1
+199411,1740,11,Business and Consumers,1
+54228,1759,11,Business and Consumers,1
+13517,1780,11,Business and Consumers,1
+254323,1782,11,Business and Consumers,1
+175089,1784,11,Business and Consumers,1
+190986,1786,11,Business and Consumers,1
+579,1788,11,Business and Consumers,1
+,1792,11,Business and Consumers,1
+216334,1846,11,Business and Consumers,1
+1365,1874,11,Business and Consumers,1
+704730,1892,11,Business and Consumers,1
+54226,1921,11,Business and Consumers,1
+268996,1953,11,Business and Consumers,1
+159425,2002,11,Business and Consumers,1
+210480,2003,11,Business and Consumers,0
+54229,2012,11,Business and Consumers,1
+1266,2026,11,Business and Consumers,1
+720394,2043,11,Business and Consumers,1
+242,2074,11,Business and Consumers,1
+79931,2078,11,Business and Consumers,1
+251098,2097,11,Business and Consumers,1
+85483,2315,11,Business and Consumers,1
+713212,2358,11,Business and Consumers,1
+185,2413,11,Business and Consumers,1
+669028,2423,11,Business and Consumers,1
+,2516,11,Business and Consumers,1
+3482,2555,11,Business and Consumers,1
+,2808,11,Business and Consumers,1
+234444,2838,11,Business and Consumers,1
+,2840,11,Business and Consumers,1
+56,935,12,Campaign Finance and Elections,1
+177253,1170,12,Campaign Finance and Elections,1
+,1509,12,Campaign Finance and Elections,1
+5615,1654,12,Campaign Finance and Elections,1
+19458,1769,12,Campaign Finance and Elections,1
+4664,1833,12,Campaign Finance and Elections,1
+,1910,12,Campaign Finance and Elections,1
+,1911,12,Campaign Finance and Elections,0
+,2055,12,Campaign Finance and Elections,1
+,2155,12,Campaign Finance and Elections,1
+,2211,12,Campaign Finance and Elections,1
+,2504,12,Campaign Finance and Elections,1
+,2505,12,Campaign Finance and Elections,1
+195961,2510,12,Campaign Finance and Elections,1
+,2512,12,Campaign Finance and Elections,1
+,2515,12,Campaign Finance and Elections,1
+90312,2525,12,Campaign Finance and Elections,1
+,2532,12,Campaign Finance and Elections,1
+,2550,12,Campaign Finance and Elections,1
+,2589,12,Campaign Finance and Elections,1
+,2620,12,Campaign Finance and Elections,1
+,2628,12,Campaign Finance and Elections,1
+,2630,12,Campaign Finance and Elections,1
+,2650,12,Campaign Finance and Elections,1
+,2681,12,Campaign Finance and Elections,1
+,2704,12,Campaign Finance and Elections,1
+,2721,12,Campaign Finance and Elections,1
+,2785,12,Campaign Finance and Elections,1
+,2790,12,Campaign Finance and Elections,1
+,2810,12,Campaign Finance and Elections,1
+,2816,12,Campaign Finance and Elections,1
+,2898,12,Campaign Finance and Elections,1
+,2913,12,Campaign Finance and Elections,1
+,2929,12,Campaign Finance and Elections,1
+243292,39,13,Civil Liberties and Civil Rights,1
+52,169,13,Civil Liberties and Civil Rights,1
+26136,246,13,Civil Liberties and Civil Rights,1
+5668,267,13,Civil Liberties and Civil Rights,1
+272356,296,13,Civil Liberties and Civil Rights,1
+14433,318,13,Civil Liberties and Civil Rights,0
+89204,338,13,Civil Liberties and Civil Rights,1
+22899,359,13,Civil Liberties and Civil Rights,1
+190990,377,13,Civil Liberties and Civil Rights,1
+19438,383,13,Civil Liberties and Civil Rights,1
+173,437,13,Civil Liberties and Civil Rights,1
+5611,545,13,Civil Liberties and Civil Rights,1
+1385,576,13,Civil Liberties and Civil Rights,1
+89189,589,13,Civil Liberties and Civil Rights,1
+15442,613,13,Civil Liberties and Civil Rights,1
+1383,627,13,Civil Liberties and Civil Rights,1
+248528,667,13,Civil Liberties and Civil Rights,1
+1201,750,13,Civil Liberties and Civil Rights,1
+5158,846,13,Civil Liberties and Civil Rights,1
+272367,865,13,Civil Liberties and Civil Rights,1
+26,893,13,Civil Liberties and Civil Rights,1
+209784,912,13,Civil Liberties and Civil Rights,1
+205289,925,13,Civil Liberties and Civil Rights,1
+557,956,13,Civil Liberties and Civil Rights,1
+722989,1017,13,Civil Liberties and Civil Rights,1
+177221,1021,13,Civil Liberties and Civil Rights,1
+171836,1024,13,Civil Liberties and Civil Rights,1
+692203,1037,13,Civil Liberties and Civil Rights,1
+4958,1059,13,Civil Liberties and Civil Rights,1
+79803,1091,13,Civil Liberties and Civil Rights,1
+144,1256,13,Civil Liberties and Civil Rights,1
+177286,1277,13,Civil Liberties and Civil Rights,1
+4622,1292,13,Civil Liberties and Civil Rights,1
+656734,1318,13,Civil Liberties and Civil Rights,1
+243282,1322,13,Civil Liberties and Civil Rights,1
+250511,1346,13,Civil Liberties and Civil Rights,1
+266228,1375,13,Civil Liberties and Civil Rights,1
+44,1378,13,Civil Liberties and Civil Rights,1
+255744,1411,13,Civil Liberties and Civil Rights,0
+13817,1419,13,Civil Liberties and Civil Rights,1
+716791,1459,13,Civil Liberties and Civil Rights,1
+232638,1479,13,Civil Liberties and Civil Rights,1
+716784,1553,13,Civil Liberties and Civil Rights,1
+89280,1600,13,Civil Liberties and Civil Rights,1
+704845,1613,13,Civil Liberties and Civil Rights,1
+4567,1692,13,Civil Liberties and Civil Rights,1
+13496,1764,13,Civil Liberties and Civil Rights,1
+722975,1766,13,Civil Liberties and Civil Rights,1
+175087,1770,13,Civil Liberties and Civil Rights,1
+232619,1774,13,Civil Liberties and Civil Rights,1
+177278,1816,13,Civil Liberties and Civil Rights,1
+79787,1830,13,Civil Liberties and Civil Rights,1
+,1833,13,Civil Liberties and Civil Rights,1
+1366,1998,13,Civil Liberties and Civil Rights,1
+64,2024,13,Civil Liberties and Civil Rights,1
+1286,2136,13,Civil Liberties and Civil Rights,1
+89275,2301,13,Civil Liberties and Civil Rights,1
+681798,2310,13,Civil Liberties and Civil Rights,1
+,2321,13,Civil Liberties and Civil Rights,1
+525,2322,13,Civil Liberties and Civil Rights,1
+528,2401,13,Civil Liberties and Civil Rights,1
+687,2403,13,Civil Liberties and Civil Rights,1
+529,2404,13,Civil Liberties and Civil Rights,0
+530,2409,13,Civil Liberties and Civil Rights,0
+700383,2414,13,Civil Liberties and Civil Rights,1
+168,2418,13,Civil Liberties and Civil Rights,1
+,2511,13,Civil Liberties and Civil Rights,1
+101828,2524,13,Civil Liberties and Civil Rights,1
+70,2567,13,Civil Liberties and Civil Rights,1
+265893,2641,13,Civil Liberties and Civil Rights,1
+,2900,13,Civil Liberties and Civil Rights,1
+4865,240,16,Legislative Branch,1
+,1956,16,Legislative Branch,0
+209779,29,17,Conservative,1
+94111,72,17,Conservative,1
+667,134,17,Conservative,1
+700379,177,17,Conservative,1
+5475,282,17,Conservative,1
+30,310,17,Conservative,1
+253617,313,17,Conservative,1
+713734,326,17,Conservative,1
+10633,336,17,Conservative,1
+76168,369,17,Conservative,1
+50793,453,17,Conservative,1
+76166,510,17,Conservative,1
+704726,550,17,Conservative,1
+268987,569,17,Conservative,1
+79754,647,17,Conservative,1
+3619,664,17,Conservative,1
+165266,721,17,Conservative,1
+171822,790,17,Conservative,1
+706457,809,17,Conservative,1
+272363,875,17,Conservative,1
+4908,902,17,Conservative,1
+250504,945,17,Conservative,1
+195905,968,17,Conservative,1
+89186,1262,17,Conservative,1
+303762,1320,17,Conservative,1
+206279,1358,17,Conservative,1
+3632,1476,17,Conservative,1
+88,1481,17,Conservative,1
+216330,1483,17,Conservative,1
+149,1513,17,Conservative,1
+33175,1548,17,Conservative,1
+42293,1591,17,Conservative,1
+47,1627,17,Conservative,1
+661189,1708,17,Conservative,1
+177242,1718,17,Conservative,1
+4523,1790,17,Conservative,1
+33179,1795,17,Conservative,1
+175082,1808,17,Conservative,1
+604,1834,17,Conservative,1
+232606,1844,17,Conservative,1
+54233,1861,17,Conservative,1
+3552,1974,17,Conservative,1
+599,2025,17,Conservative,1
+32,2061,17,Conservative,1
+155464,2066,17,Conservative,1
+254330,2076,17,Conservative,1
+704775,2116,17,Conservative,1
+155488,2118,17,Conservative,1
+228218,2132,17,Conservative,1
+165251,2134,17,Conservative,1
+722935,2138,17,Conservative,1
+228229,2144,17,Conservative,1
+94913,2145,17,Conservative,1
+177235,2161,17,Conservative,1
+191060,2162,17,Conservative,1
+5876,2163,17,Conservative,1
+1,2412,17,Conservative,1
+24998,2486,17,Conservative,1
+4801,1046,20,Crime,1
+206752,1053,20,Crime,1
+80087,1423,20,Crime,0
+4875,1691,20,Crime,1
+17,2407,20,Crime,0
+201,101,22,Defense,1
+169,725,22,Defense,0
+,1110,22,Defense,1
+4878,1197,22,Defense,1
+4516,1936,22,Defense,1
+,1957,22,Defense,0
+,1972,22,Defense,0
+,1974,22,Defense,0
+,1975,22,Defense,0
+88902,880,25,Drugs,1
+13457,1404,25,Drugs,1
+4579,1703,25,Drugs,1
+89259,1983,25,Drugs,1
+,2826,25,Drugs,1
+52071,14,27,Education,1
+79750,123,27,Education,1
+292662,203,27,Education,1
+661192,317,27,Education,1
+722979,339,27,Education,1
+243294,436,27,Education,1
+254340,460,27,Education,1
+138394,477,27,Education,1
+700390,574,27,Education,0
+171823,583,27,Education,1
+89333,614,27,Education,1
+631,668,27,Education,0
+250507,707,27,Education,1
+22905,777,27,Education,1
+1276,873,27,Education,1
+204612,895,27,Education,1
+652630,951,27,Education,0
+207641,969,27,Education,1
+713747,987,27,Education,1
+50,1015,27,Education,1
+713739,1131,27,Education,1
+209803,1132,27,Education,1
+661210,1408,27,Education,1
+89218,1537,27,Education,1
+216333,1572,27,Education,1
+704704,1632,27,Education,1
+2049,1757,27,Education,1
+4660,1810,27,Education,1
+1219,1848,27,Education,0
+101796,1923,27,Education,1
+5361,1933,27,Education,0
+303181,1947,27,Education,1
+42295,2077,27,Education,0
+155456,2082,27,Education,1
+269017,2152,27,Education,1
+3626,2183,27,Education,0
+228228,2188,27,Education,1
+,2196,27,Education,1
+,2337,27,Education,1
+,2487,27,Education,1
+301182,2497,27,Education,1
+,2591,27,Education,1
+191000,2618,27,Education,1
+,2922,27,Education,1
+4565,7,29,Energy,1
+4732,1702,29,Energy,1
+4578,1865,29,Energy,1
+4673,1867,29,Energy,0
+25394,1870,29,Energy,1
+,2334,29,Energy,0
+41752,2450,29,Energy,1
+,2488,29,Energy,1
+29,2526,29,Energy,0
+,2540,29,Energy,0
+,2556,29,Energy,1
+,2709,29,Energy,1
+215463,2804,29,Energy,1
+,2885,29,Energy,1
+141304,3,30,Environment,1
+649397,31,30,Environment,1
+177234,34,30,Environment,1
+232613,37,30,Environment,1
+247003,45,30,Environment,1
+2800,66,30,Environment,1
+138418,71,30,Environment,1
+,77,30,Environment,0
+248524,144,30,Environment,1
+704705,162,30,Environment,1
+207633,168,30,Environment,1
+722925,189,30,Environment,1
+303219,191,30,Environment,1
+254321,236,30,Environment,1
+27476,242,30,Environment,1
+729957,260,30,Environment,1
+703957,263,30,Environment,1
+19440,286,30,Environment,1
+232626,328,30,Environment,1
+,329,30,Environment,1
+54239,333,30,Environment,1
+676365,355,30,Environment,1
+5883,364,30,Environment,1
+206271,391,30,Environment,1
+722994,464,30,Environment,1
+661197,491,30,Environment,1
+195914,493,30,Environment,1
+89184,495,30,Environment,1
+89178,509,30,Environment,1
+676399,535,30,Environment,1
+250502,547,30,Environment,1
+22901,562,30,Environment,1
+68834,597,30,Environment,1
+,664,30,Environment,1
+52064,706,30,Environment,1
+42292,715,30,Environment,1
+722931,719,30,Environment,1
+22951,749,30,Environment,1
+250501,752,30,Environment,1
+649915,761,30,Environment,1
+720400,787,30,Environment,1
+138446,803,30,Environment,1
+665057,806,30,Environment,1
+268986,823,30,Environment,1
+226040,889,30,Environment,1
+,922,30,Environment,1
+4790,934,30,Environment,1
+268985,936,30,Environment,1
+206750,954,30,Environment,1
+1360,979,30,Environment,1
+5270,988,30,Environment,0
+18,1012,30,Environment,1
+700386,1018,30,Environment,1
+232615,1045,30,Environment,1
+36451,1069,30,Environment,1
+79763,1136,30,Environment,1
+209775,1173,30,Environment,1
+19456,1175,30,Environment,1
+729969,1229,30,Environment,1
+216332,1246,30,Environment,1
+175088,1248,30,Environment,1
+713741,1280,30,Environment,1
+226043,1296,30,Environment,1
+165265,1304,30,Environment,1
+309050,1310,30,Environment,1
+175086,1399,30,Environment,1
+303754,1414,30,Environment,1
+652629,1438,30,Environment,1
+250503,1515,30,Environment,1
+676367,1547,30,Environment,1
+704699,1550,30,Environment,1
+15448,1659,30,Environment,1
+216346,1678,30,Environment,1
+89227,1698,30,Environment,1
+,1716,30,Environment,0
+227082,1730,30,Environment,1
+676353,1739,30,Environment,1
+4652,1792,30,Environment,1
+250513,1800,30,Environment,0
+18189,1825,30,Environment,1
+68,1826,30,Environment,1
+177289,1827,30,Environment,1
+30243,1854,30,Environment,1
+265923,1869,30,Environment,1
+258141,1886,30,Environment,1
+46,1938,30,Environment,1
+649899,1981,30,Environment,1
+89199,1989,30,Environment,1
+251106,2011,30,Environment,1
+258135,2090,30,Environment,1
+54242,2156,30,Environment,1
+,2253,30,Environment,1
+1593,2513,30,Environment,1
+94889,2527,30,Environment,1
+,2563,30,Environment,1
+,2706,30,Environment,1
+16994,2709,30,Environment,1
+16988,2884,30,Environment,1
+232622,16,31,"Marriage Family and Children",1
+729956,174,31,"Marriage Family and Children",0
+,182,31,"Marriage Family and Children",0
+141306,214,31,"Marriage Family and Children",1
+713753,469,31,"Marriage Family and Children",0
+13,718,31,"Marriage Family and Children",1
+209793,767,31,"Marriage Family and Children",1
+243295,782,31,"Marriage Family and Children",1
+5110,1114,31,"Marriage Family and Children",0
+210528,1362,31,"Marriage Family and Children",1
+79771,1433,31,"Marriage Family and Children",1
+232612,1439,31,"Marriage Family and Children",0
+540,1467,31,"Marriage Family and Children",1
+522,1497,31,"Marriage Family and Children",1
+,1512,31,"Marriage Family and Children",1
+713086,1749,31,"Marriage Family and Children",0
+722973,1767,31,"Marriage Family and Children",1
+89255,1852,31,"Marriage Family and Children",1
+301190,2069,31,"Marriage Family and Children",1
+661318,2107,31,"Marriage Family and Children",1
+698735,2123,31,"Marriage Family and Children",1
+84,2231,31,"Marriage Family and Children",1
+41,2622,31,"Marriage Family and Children",1
+,2659,31,"Marriage Family and Children",0
+,125,31,Foreign Affairs,1
+5185,171,32,Foreign Affairs,0
+5159,199,32,Foreign Affairs,1
+1187,329,32,Foreign Affairs,1
+1257,970,32,Foreign Affairs,1
+57,990,32,Foreign Affairs,1
+3605,1065,32,Foreign Affairs,1
+499,1110,32,Foreign Affairs,1
+62,1364,32,Foreign Affairs,1
+118,1420,32,Foreign Affairs,1
+686,1509,32,Foreign Affairs,1
+1252,1835,32,Foreign Affairs,0
+187,1855,32,Foreign Affairs,1
+2074,1876,32,Foreign Affairs,1
+10585,1931,32,Foreign Affairs,1
+,1962,32,Foreign Affairs,1
+4808,2103,32,Foreign Affairs,0
+,2125,32,Foreign Affairs,1
+,2221,32,Foreign Affairs,1
+12532,2233,32,Foreign Affairs,1
+16,2402,32,Foreign Affairs,1
+,2542,32,Foreign Affairs,1
+,2636,32,Foreign Affairs,1
+,2917,32,Foreign Affairs,1
+,13,36,Government Operations,1
+703956,65,36,Government Operations,0
+52061,115,36,Government Operations,0
+177298,209,36,Government Operations,0
+716772,523,36,Government Operations,0
+713750,575,36,Government Operations,1
+704843,824,36,Government Operations,0
+303753,826,36,Government Operations,0
+656733,1288,36,Government Operations,0
+216344,1330,36,Government Operations,0
+263789,1512,36,Government Operations,0
+209777,1639,36,Government Operations,0
+11,1658,36,Government Operations,1
+670026,2104,36,Government Operations,0
+1840,2332,36,Government Operations,0
+,2339,36,Government Operations,0
+,2340,36,Government Operations,1
+,2349,36,Government Operations,1
+63,2566,36,Government Operations,0
+,2866,36,Government Operations,1
+664172,4,37,Guns,0
+4321,9,37,Guns,0
+27751,42,37,Guns,0
+12985,46,37,Guns,0
+22073,95,37,Guns,0
+58752,99,37,Guns,0
+67205,105,37,Guns,0
+246993,110,37,Guns,0
+178,122,37,Guns,1
+93126,124,37,Guns,0
+13167,126,37,Guns,0
+729958,137,37,Guns,0
+138434,175,37,Guns,0
+704769,219,37,Guns,0
+22907,232,37,Guns,0
+232608,235,37,Guns,0
+59393,249,37,Guns,0
+3630,251,37,Guns,0
+661217,264,37,Guns,0
+39062,298,37,Guns,0
+683305,315,37,Guns,0
+228255,327,37,Guns,0
+721229,352,37,Guns,0
+263791,397,37,Guns,0
+19452,405,37,Guns,0
+2452,435,37,Guns,0
+54110,445,37,Guns,0
+71129,446,37,Guns,0
+309042,483,37,Guns,0
+31991,488,37,Guns,0
+269001,500,37,Guns,0
+40181,520,37,Guns,0
+292667,551,37,Guns,0
+163594,573,37,Guns,0
+138399,578,37,Guns,0
+27753,580,37,Guns,0
+27471,581,37,Guns,0
+704697,619,37,Guns,0
+69190,623,37,Guns,0
+22952,645,37,Guns,1
+267952,669,37,Guns,0
+729971,698,37,Guns,0
+36449,700,37,Guns,0
+79813,713,37,Guns,0
+52716,714,37,Guns,0
+54885,738,37,Guns,0
+17348,756,37,Guns,0
+45870,816,37,Guns,0
+41645,838,37,Guns,0
+66556,851,37,Guns,0
+22943,854,37,Guns,0
+295448,874,37,Guns,0
+207441,885,37,Guns,0
+207630,890,37,Guns,0
+48493,924,37,Guns,0
+665070,972,37,Guns,0
+15438,975,37,Guns,0
+166600,980,37,Guns,0
+253619,1006,37,Guns,0
+166601,1032,37,Guns,0
+249,1034,37,Guns,0
+243301,1078,37,Guns,1
+19455,1103,37,Guns,0
+2044,1113,37,Guns,0
+54227,1129,37,Guns,0
+15243,1130,37,Guns,0
+1362,1135,37,Guns,0
+266881,1139,37,Guns,0
+138410,1153,37,Guns,0
+210554,1174,37,Guns,0
+254339,1180,37,Guns,0
+700388,1217,37,Guns,0
+42286,1225,37,Guns,0
+43,1226,37,Guns,0
+652645,1236,37,Guns,0
+199425,1241,37,Guns,0
+671505,1257,37,Guns,0
+93134,1289,37,Guns,1
+43486,1291,37,Guns,0
+46515,1324,37,Guns,0
+251114,1429,37,Guns,0
+177322,1430,37,Guns,0
+15726,1431,37,Guns,0
+71788,1464,37,Guns,0
+239475,1469,37,Guns,0
+51198,1496,37,Guns,0
+23784,1521,37,Guns,0
+272309,1545,37,Guns,1
+50422,1551,37,Guns,0
+37095,1557,37,Guns,0
+63322,1564,37,Guns,0
+79762,1597,37,Guns,0
+10442,1617,37,Guns,0
+5353,1620,37,Guns,1
+16981,1623,37,Guns,0
+80089,1641,37,Guns,0
+292671,1650,37,Guns,1
+2798,1836,37,Guns,0
+59392,1943,37,Guns,0
+60862,2266,37,Guns,0
+,2345,37,Guns,1
+66690,2348,37,Guns,0
+79936,2356,37,Guns,0
+54220,2363,37,Guns,0
+31756,2370,37,Guns,0
+,2484,37,Guns,1
+,2485,37,Guns,1
+,2503,37,Guns,1
+,2551,37,Guns,1
+,2561,37,Guns,1
+,2645,37,Guns,1
+,2879,37,Guns,0
+526,38,38,Health and Health Care,1
+93123,86,38,Health and Health Care,1
+5149,183,38,Health and Health Care,1
+3606,309,38,Health and Health Care,1
+52065,321,38,Health and Health Care,1
+4941,373,38,Health and Health Care,1
+577,401,38,Health and Health Care,1
+5099,424,38,Health and Health Care,1
+4721,517,38,Health and Health Care,1
+177313,538,38,Health and Health Care,1
+5028,762,38,Health and Health Care,1
+5281,799,38,Health and Health Care,1
+96,884,38,Health and Health Care,1
+94106,994,38,Health and Health Care,1
+4779,1117,38,Health and Health Care,1
+263793,1191,38,Health and Health Care,1
+4903,1247,38,Health and Health Care,0
+5013,1275,38,Health and Health Care,1
+4585,1380,38,Health and Health Care,1
+5266,1500,38,Health and Health Care,1
+205285,1522,38,Health and Health Care,1
+5566,1552,38,Health and Health Care,1
+13699,1693,38,Health and Health Care,1
+3513,1713,38,Health and Health Care,1
+4497,1714,38,Health and Health Care,1
+3582,1737,38,Health and Health Care,1
+13797,1738,38,Health and Health Care,1
+4610,1777,38,Health and Health Care,1
+4613,1778,38,Health and Health Care,1
+3594,1791,38,Health and Health Care,1
+3591,1793,38,Health and Health Care,1
+4661,1812,38,Health and Health Care,1
+3577,1831,38,Health and Health Care,1
+,1843,38,Health and Health Care,1
+4502,1858,38,Health and Health Care,1
+3519,1922,38,Health and Health Care,1
+1202,1932,38,Health and Health Care,1
+79737,1994,38,Health and Health Care,1
+89251,1997,38,Health and Health Care,1
+155457,2001,38,Health and Health Care,1
+232610,2005,38,Health and Health Care,1
+54231,2013,38,Health and Health Care,1
+519,2028,38,Health and Health Care,1
+89196,2034,38,Health and Health Care,1
+,2335,38,Health and Health Care,1
+,2666,38,Health and Health Care,1
+,2680,38,Health and Health Care,1
+,2864,38,Health and Health Care,1
+177282,157,39,Housing and Property,1
+5095,367,39,Housing and Property,1
+5612,862,39,Housing and Property,1
+4659,916,39,Housing and Property,0
+94064,1094,39,Housing and Property,1
+19480,1801,39,Housing and Property,1
+101804,2063,39,Housing and Property,0
+,2297,39,Housing and Property,0
+4542,74,40,Immigration,0
+154,300,40,Immigration,0
+588,330,40,Immigration,1
+22936,376,40,Immigration,0
+4757,544,40,Immigration,0
+93128,1270,40,Immigration,1
+5485,1382,40,Immigration,0
+618,1542,40,Immigration,1
+4524,1783,40,Immigration,0
+,1855,40,Immigration,1
+3550,1934,40,Immigration,1
+,1950,40,Immigration,0
+4,1985,40,Immigration,0
+700384,1996,40,Immigration,0
+683287,2085,40,Immigration,0
+41759,2121,40,Immigration,0
+1048,2344,40,Immigration,1
+,2402,40,Immigration,1
+,2668,40,Immigration,0
+167,1155,41,Technology and Communication,1
+4616,1717,41,Technology and Communication,1
+216340,1850,41,Technology and Communication,0
+4513,1918,41,Technology and Communication,1
+,2126,41,Technology and Communication,1
+1183,2159,41,Technology and Communication,1
+2,2880,41,Technology and Communication,1
+42294,69,43,Labor Unions,1
+48,83,43,Labor Unions,1
+33177,111,43,Labor Unions,1
+,149,43,Labor Unions,1
+248522,151,43,Labor Unions,1
+,374,43,Labor Unions,1
+272336,399,43,Labor Unions,1
+15434,429,43,Labor Unions,1
+722565,454,43,Labor Unions,1
+216347,456,43,Labor Unions,1
+,463,43,Labor Unions,1
+4076,467,43,Labor Unions,1
+250522,522,43,Labor Unions,1
+232602,548,43,Labor Unions,1
+206275,642,43,Labor Unions,1
+195955,660,43,Labor Unions,1
+703955,681,43,Labor Unions,1
+713735,722,43,Labor Unions,1
+2043,735,43,Labor Unions,1
+5617,746,43,Labor Unions,1
+272348,780,43,Labor Unions,1
+4729,847,43,Labor Unions,1
+,858,43,Labor Unions,1
+250508,882,43,Labor Unions,1
+704716,927,43,Labor Unions,1
+141305,931,43,Labor Unions,1
+729967,946,43,Labor Unions,1
+58,1002,43,Labor Unions,1
+190983,1062,43,Labor Unions,1
+569,1074,43,Labor Unions,1
+652644,1104,43,Labor Unions,1
+250510,1160,43,Labor Unions,1
+87,1161,43,Labor Unions,1
+250500,1203,43,Labor Unions,1
+2802,1208,43,Labor Unions,1
+232620,1235,43,Labor Unions,1
+98,1254,43,Labor Unions,1
+3598,1268,43,Labor Unions,1
+206749,1274,43,Labor Unions,1
+722956,1300,43,Labor Unions,1
+4655,1347,43,Labor Unions,1
+1396,1415,43,Labor Unions,1
+703954,1428,43,Labor Unions,1
+22917,1444,43,Labor Unions,1
+713074,1457,43,Labor Unions,1
+232609,1463,43,Labor Unions,1
+4781,1558,43,Labor Unions,1
+22913,1575,43,Labor Unions,1
+89221,1594,43,Labor Unions,1
+15,1598,43,Labor Unions,1
+4486,1660,43,Labor Unions,1
+181526,1712,43,Labor Unions,0
+303200,1735,43,Labor Unions,1
+232627,1756,43,Labor Unions,1
+4484,1765,43,Labor Unions,1
+704857,1894,43,Labor Unions,1
+177231,1986,43,Labor Unions,0
+722960,1993,43,Labor Unions,1
+649340,2019,43,Labor Unions,1
+,2058,43,Labor Unions,1
+251,2319,43,Labor Unions,0
+,2454,43,Labor Unions,1
+,2475,43,Labor Unions,1
+,2476,43,Labor Unions,1
+,2478,43,Labor Unions,1
+,2483,43,Labor Unions,1
+77,2495,43,Labor Unions,1
+,2534,43,Labor Unions,1
+,2559,43,Labor Unions,0
+,2572,43,Labor Unions,1
+,2608,43,Labor Unions,1
+,2609,43,Labor Unions,1
+,2644,43,Labor Unions,1
+,2708,43,Labor Unions,1
+,2893,43,Labor Unions,1
+,2905,43,Labor Unions,1
+1465,2861,44,Judicial Branch,1
+171828,176,45,Liberal,1
+4963,185,45,Liberal,1
+209776,396,45,Liberal,1
+243286,443,45,Liberal,1
+1235,1359,45,Liberal,1
+272322,1450,45,Liberal,1
+698767,1585,45,Liberal,1
+13798,1743,45,Liberal,1
+216301,2234,45,Liberal,1
+3592,192,47,Military Personnel,1
+,392,47,Military Personnel,1
+5036,1148,47,Military Personnel,1
+1835,1699,47,Military Personnel,1
+,1909,47,Military Personnel,1
+,2509,47,Military Personnel,1
+,2915,47,Military Personnel,1
+4723,651,52,Science,1
+14034,828,52,Science,1
+94090,859,52,Science,0
+41754,2451,52,Science,1
+,2603,52,Science,1
+89253,141,53,Senior Citizens,1
+,271,53,Senior Citizens,1
+,282,53,Senior Citizens,0
+4952,591,53,Senior Citizens,0
+1389,753,53,Senior Citizens,1
+,850,53,Senior Citizens,1
+,959,53,Senior Citizens,1
+1394,1026,53,Senior Citizens,1
+138408,1214,53,Senior Citizens,1
+89181,1326,53,Senior Citizens,1
+,1466,53,Senior Citizens,1
+,1944,53,Senior Citizens,1
+13655,2883,53,Senior Citizens,1
+206758,26,54,Social,1
+692218,67,54,Social,1
+722966,222,54,Social,0
+79808,279,54,Social,1
+177236,316,54,Social,1
+217032,419,54,Social,1
+19483,609,54,Social,1
+292663,672,54,Social,1
+234420,676,54,Social,1
+89326,881,54,Social,1
+79824,932,54,Social,1
+89257,1005,54,Social,1
+83644,1402,54,Social,1
+217035,1555,54,Social,1
+13656,1637,54,Social,1
+3441,1966,54,Social,0
+177261,2073,54,Social,0
+49,1461,63,Trade,1
+183,1789,63,Trade,1
+,1937,63,Trade,1
+177295,186,64,Transportation,1
+42319,1570,64,Transportation,1
+,2341,64,Transportation,1
+101816,2501,64,Transportation,1
+44870,2533,64,Transportation,1
+212791,2535,64,Transportation,0
+5086,559,66,Veterans,1
+1334,908,66,Veterans,1
+3522,1250,66,Veterans,1
+1677,1336,66,Veterans,1
+645,1456,66,Veterans,1
+,1955,66,Veterans,1
+,1976,66,Veterans,0
+,2890,66,Veterans,1
+236587,704,67,Unemployed and Low-Income,1
+4950,710,67,Unemployed and Low-Income,1
+,926,67,Unemployed and Low-Income,1
+273683,1384,67,Unemployed and Low-Income,1
+4716,1673,67,Unemployed and Low-Income,1
+86,1744,67,Unemployed and Low-Income,1
+,1781,67,Unemployed and Low-Income,1
+,1865,67,Unemployed and Low-Income,1
+,134,68,Women,0
+,164,68,Women,1
+89219,250,68,Women,1
+,319,68,Women,1
+5582,671,68,Women,1
+138376,861,68,Women,1
+234419,930,68,Women,1
+706455,1067,68,Women,1
+250547,1092,68,Women,1
+22931,1121,68,Women,0
+217033,1315,68,Women,1
+716792,1584,68,Women,1
+301181,1879,68,Women,1
+,1906,68,Women,1
+,1930,68,Women,0
+,2243,68,Women,1
+,2336,68,Women,1
+,2611,68,Women,1
+,2647,68,Women,0
+,2663,68,Women,1
+4555,253,72,"Federal State and Local Relations",1
+713222,1510,72,"Federal State and Local Relations",1
+4360,1849,73,Gambling and Gaming,1
+,2496,74,Indigenous Peoples,1
+4819,131,75,Abortion and Reproductive,1
+72,265,75,Abortion and Reproductive,1
+195912,357,75,Abortion and Reproductive,1
+63324,389,75,Abortion and Reproductive,1
+209773,402,75,Abortion and Reproductive,1
+4568,412,75,Abortion and Reproductive,1
+14924,492,75,Abortion and Reproductive,1
+272341,511,75,Abortion and Reproductive,1
+207635,565,75,Abortion and Reproductive,1
+205295,866,75,Abortion and Reproductive,1
+248922,952,75,Abortion and Reproductive,1
+42287,1066,75,Abortion and Reproductive,1
+177302,1097,75,Abortion and Reproductive,1
+250506,1112,75,Abortion and Reproductive,1
+16158,1325,75,Abortion and Reproductive,0
+4534,1475,75,Abortion and Reproductive,1
+4572,1488,75,Abortion and Reproductive,1
+154759,1499,75,Abortion and Reproductive,1
+266226,1601,75,Abortion and Reproductive,1
+258146,2050,75,Abortion and Reproductive,0
+54108,2304,75,Abortion and Reproductive,1
+708847,2472,75,Abortion and Reproductive,1
+248517,2529,75,Abortion and Reproductive,1
+,2819,75,Abortion and Reproductive,1
+646735,354,76,Sexual Orientation and Gender Identity,1
+,639,76,Sexual Orientation and Gender Identity,1
+40096,1285,76,Sexual Orientation and Gender Identity,1
+,1971,76,Sexual Orientation and Gender Identity,1
+,1977,76,Sexual Orientation and Gender Identity,0
+,2059,76,Sexual Orientation and Gender Identity,0
+,2338,76,Sexual Orientation and Gender Identity,1
+79284,2367,76,Sexual Orientation and Gender Identity,1
+,2493,76,Sexual Orientation and Gender Identity,1
+,2558,76,Sexual Orientation and Gender Identity,1
+,2574,76,Sexual Orientation and Gender Identity,1
+,2649,76,Sexual Orientation and Gender Identity,1
+650400,2679,76,Sexual Orientation and Gender Identity,1
+53,471,78,"Business Consumers and Employees",1
+60,504,78,"Business Consumers and Employees",1
+10,2806,78,"Business Consumers and Employees",1
+89247,636,80,﻿Minors and Children,1
+5224,639,80,﻿Minors and Children,1
+76165,898,80,﻿Minors and Children,1
+1352,1144,80,﻿Minors and Children,1
+22902,1355,80,﻿Minors and Children,1
+5084,1447,80,﻿Minors and Children,1
+3601,1970,80,﻿Minors and Children,1
+85477,106,82,Economy and Fiscal,0
+13642,319,82,Economy and Fiscal,1
+5201,810,82,Economy and Fiscal,1
+4799,1716,82,Economy and Fiscal,1
+652,1868,82,Economy and Fiscal,1
+5155,1937,82,Economy and Fiscal,1
+1220,149,83,Entitlements and the Safety Net,1
+5170,271,83,Entitlements and the Safety Net,1
+4695,392,83,Entitlements and the Safety Net,1
+5349,850,83,Entitlements and the Safety Net,1
+91,959,83,Entitlements and the Safety Net,1
+5305,1466,83,Entitlements and the Safety Net,1
+536,1781,83,Entitlements and the Safety Net,1
+4919,102,84,Finance and Banking,1
+217,233,84,Finance and Banking,1
+36732,2033,84,Finance and Banking,1
+554,77,86,Fiscally Conservative,1
+245,88,86,Fiscally Conservative,1
+4951,529,86,Fiscally Conservative,1
+4663,745,86,Fiscally Conservative,1
+49790,801,86,Fiscally Conservative,1
+676364,833,86,Fiscally Conservative,1
+123,872,86,Fiscally Conservative,1
+676362,1255,86,Fiscally Conservative,1
+5315,1494,86,Fiscally Conservative,1
+663494,1628,86,Fiscally Conservative,1
+255741,1644,86,Fiscally Conservative,1
+24,1734,86,Fiscally Conservative,1
+676352,1760,86,Fiscally Conservative,1
+19192,1877,86,Fiscally Conservative,1
+2178,2062,86,Fiscally Conservative,1
+303208,2106,86,Fiscally Conservative,1
+19443,2114,86,Fiscally Conservative,1
+683262,2115,86,Fiscally Conservative,1
+258138,2165,86,Fiscally Conservative,1
+661337,2192,86,Fiscally Conservative,1
+661338,2204,86,Fiscally Conservative,1
+679076,390,87,Fiscally Liberal,1
+101,978,87,Fiscally Liberal,1
+5576,1115,87,Fiscally Liberal,0
+13478,1837,87,Fiscally Liberal,1
+194,2167,87,Fiscally Liberal,1
+205,463,88,Food Processing and Sales,1
+648,1773,88,Food Processing and Sales,1
+164,926,89,Foreign Aid,1
+13649,1751,89,Foreign Aid,1
+83,13,90,Government Budget and Spending,0
+1364,217,90,Government Budget and Spending,0
+22925,403,90,Government Budget and Spending,0
+4881,430,90,Government Budget and Spending,0
+226045,2004,90,Government Budget and Spending,0
+258114,2014,90,Government Budget and Spending,0
+661326,2099,90,Government Budget and Spending,0
+85498,2148,90,Government Budget and Spending,0
+649901,2166,90,Government Budget and Spending,0
+85496,2316,90,Government Budget and Spending,0
+1756,2361,90,Government Budget and Spending,0
+190998,2383,90,Government Budget and Spending,0
+576,54,93,Higher Education,1
+55,164,93,Higher Education,1
+22904,394,93,Higher Education,1
+5559,1373,93,Higher Education,1
+101723,2268,93,Higher Education,1
+94898,2522,93,Higher Education,1
+94891,2584,93,Higher Education,1
+272327,1102,95,Impartial/Nonpartisan,1
+681,374,97,Infrastructure,1
+4890,858,97,Infrastructure,1
+5358,1056,97,Infrastructure,1
+269006,2531,97,Infrastructure,1
+4975,182,98,K-12 Education,1
+4979,1417,98,K-12 Education,1
+13882,1534,98,K-12 Education,1
+4624,1669,98,K-12 Education,1
+5160,527,99,﻿Legal,1
+210549,1403,99,Legal,1
+177230,225,101,Marijuana Legalization,0
+7,599,101,Marijuana Legalization,1
+562,2436,101,Marijuana Legalization,1
+24994,2449,101,Marijuana Legalization,1
+51010,2149,102,Marriage,0
+681799,2506,102,Marriage,0
+155461,2539,102,Marriage,0
+4580,1864,103,﻿Natural Resources and Energy,1
+3542,2439,104,Oil and Gas,1
+59,2639,104,Oil and Gas,1
+676408,55,107,Religion,1
+551,80,107,Religion,0
+22950,98,107,Religion,1
+292660,270,107,Religion,1
+5610,461,107,Religion,1
+676388,663,107,Religion,0
+527,793,107,Religion,0
+652656,891,107,Religion,1
+5088,1035,107,Religion,1
+14,1084,107,Religion,1
+272361,1128,107,Religion,1
+4687,1181,107,Religion,1
+177319,1645,107,Religion,1
+4649,1671,107,Religion,1
+3545,2023,107,Religion,1
+41760,2108,107,Religion,1
+685,2336,107,Religion,1
+594,2411,107,Religion,0
+619,2419,107,Religion,0
+44944,2678,107,Religion,0
+676351,661,109,Socially Conservative,1
+15993,350,111,Taxes,1
+94116,691,111,Taxes,1
+89180,720,111,Taxes,1
+89182,792,111,Taxes,1
+4773,1672,111,Taxes,0
+3621,1862,111,Taxes,1
+258137,2015,111,Taxes,1
