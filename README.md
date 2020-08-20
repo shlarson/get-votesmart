@@ -35,7 +35,7 @@ Download the entire package (9 files)
 #### 01_get_all.py
 <p>Generates a very large database in SQLite.</p>
 <p>Retrieves State codes from the txt file.</p>
-<p>Uses state codes to start cycling through data retrieval. VoteSmart is set up to easily retrieve information assuming the candidate of interest is known and the user is looking for detailed information about that specific candidate. This program branches more or less by searching each state for the winners of House elections in '18 and Senate winners in '14, '16, and '18 and retrieving a each candidateId. The candidateId is then used to pick out relevant variables. More information on connecting to VoteSmart can be found <a href="https://api.votesmart.org/docs/index.html">here</a>.</p>
+<p>Uses state codes to start cycling through data retrieval. VoteSmart is set up to easily retrieve information assuming the candidate of interest is known and the user is looking for detailed information about that specific candidate. This program branches more or less by searching each state for the winners of House elections in '18 and Senate winners in '14, '16, and '18 and retrieving each candidateId. The candidateId is then used to pick out relevant variables. More information on connecting to VoteSmart can be found <a href="https://api.votesmart.org/docs/index.html">here</a>.</p>
 
 #### 02_gen_table.py
 <p>Generates a new database.</p>
