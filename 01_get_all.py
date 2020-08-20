@@ -89,7 +89,7 @@ for line in s_i:
     conn.commit()
 
 ### Plug in the API Key:
-    serviceurl = 'https://api.votesmart.org/Candidates.getByOfficeTypeState?key=<APIKEY>officeTypeId=C&stateId='+state+'&electionYear=2014'
+    serviceurl = 'https://api.votesmart.org/Candidates.getByOfficeTypeState?key=<APIKEY>&officeTypeId=C&stateId='+state+'&electionYear=2014'
     tree = ET.parse(urllib.request.urlopen(serviceurl))
     root = tree.getroot()
     print(serviceurl)
@@ -123,7 +123,7 @@ for line in s_i:
             conn.commit()
 
             #get detailed bio info (religion and PID)
-            bio_url = 'https://api.votesmart.org/CandidateBio.getBio?key=<APIKEY>candidateId='+candidateId
+            bio_url = 'https://api.votesmart.org/CandidateBio.getBio?key=<APIKEY>&candidateId='+candidateId
             tree2 = ET.parse(urllib.request.urlopen(bio_url))
             root2 = tree2.getroot()
 
@@ -142,7 +142,7 @@ for line in s_i:
                     conn.commit()
 
                 #get rating from all SIGs
-                rating_url = 'https://api.votesmart.org/Rating.getCandidateRating?key=<APIKEY>candidateId='+candidateId
+                rating_url = 'https://api.votesmart.org/Rating.getCandidateRating?key=<APIKEY>&candidateId='+candidateId
                 tree3 = ET.parse(urllib.request.urlopen(rating_url))
                 root3 = tree3.getroot()
                 for child3 in root3.findall('rating'):
@@ -212,7 +212,7 @@ for line in s_i:
 
     conn.commit()
 
-    serviceurl = 'https://api.votesmart.org/Candidates.getByOfficeTypeState?key=<APIKEY>officeTypeId=C&stateId='+state+'&electionYear=2016'
+    serviceurl = 'https://api.votesmart.org/Candidates.getByOfficeTypeState?key=<APIKEY>&officeTypeId=C&stateId='+state+'&electionYear=2016'
     tree = ET.parse(urllib.request.urlopen(serviceurl))
     root = tree.getroot()
     print(serviceurl)
@@ -246,7 +246,7 @@ for line in s_i:
             conn.commit()
 
             #get detailed bio info (religion and PID)
-            bio_url = 'https://api.votesmart.org/CandidateBio.getBio?key=<APIKEY>candidateId='+candidateId
+            bio_url = 'https://api.votesmart.org/CandidateBio.getBio?key=<APIKEY>&candidateId='+candidateId
             tree2 = ET.parse(urllib.request.urlopen(bio_url))
             root2 = tree2.getroot()
 
@@ -265,7 +265,7 @@ for line in s_i:
                     conn.commit()
 
                 #get rating from all SIGs
-                rating_url = 'https://api.votesmart.org/Rating.getCandidateRating?key=<APIKEY>candidateId='+candidateId
+                rating_url = 'https://api.votesmart.org/Rating.getCandidateRating?key=<APIKEY>&candidateId='+candidateId
                 tree3 = ET.parse(urllib.request.urlopen(rating_url))
                 root3 = tree3.getroot()
                 for child3 in root3.findall('rating'):
@@ -334,7 +334,7 @@ for line in s_i:
 
     conn.commit()
 
-    serviceurl = 'https://api.votesmart.org/Candidates.getByOfficeTypeState?key=<APIKEY>officeTypeId=C&stateId='+state+'&electionYear=2018'
+    serviceurl = 'https://api.votesmart.org/Candidates.getByOfficeTypeState?key=<APIKEY>&officeTypeId=C&stateId='+state+'&electionYear=2018'
     tree = ET.parse(urllib.request.urlopen(serviceurl))
     root = tree.getroot()
     print(serviceurl)
@@ -367,7 +367,7 @@ for line in s_i:
             conn.commit()
 
             #get detailed bio info (religion and PID)
-            bio_url = 'https://api.votesmart.org/CandidateBio.getBio?key=<APIKEY>candidateId='+candidateId
+            bio_url = 'https://api.votesmart.org/CandidateBio.getBio?key=<APIKEY>&candidateId='+candidateId
             tree2 = ET.parse(urllib.request.urlopen(bio_url))
             root2 = tree2.getroot()
 
@@ -386,7 +386,7 @@ for line in s_i:
                     conn.commit()
 
                 #get rating from all SIGs
-                rating_url = 'https://api.votesmart.org/Rating.getCandidateRating?key=<APIKEY>candidateId='+candidateId
+                rating_url = 'https://api.votesmart.org/Rating.getCandidateRating?key=<APIKEY>&candidateId='+candidateId
                 tree3 = ET.parse(urllib.request.urlopen(rating_url))
                 root3 = tree3.getroot()
                 for child3 in root3.findall('rating'):
